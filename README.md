@@ -1,5 +1,7 @@
 ## Market Data Analysis
 
+**UPDATE: Market Analyzing version 1 is now available**
+
 ### Overview
 This project is a comprehensive analysis of a financial market dataset, focusing on preprocessing, visualization, and predictive modeling. The objective is to explore various machine learning algorithms to predict stock prices and evaluate their effectiveness.
 
