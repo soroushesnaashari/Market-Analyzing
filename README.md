@@ -1,3 +1,5 @@
+[![](Image.jpg)](https://unsplash.com/photos/a-close-up-of-a-screen-tcJ6sJTtTWI)
+
 ## Market Data Analysis
 
 **UPDATE: Market Analyzing version 1 is now available**
@@ -47,11 +49,11 @@ The project consists of the following phases:
 
 ### Repository Contents
 
-- **Data:** Contains the [Original Dataset](https://www.kaggle.com/datasets/umerkappor/market) and you can see the cleaned dataset in notebook.
+- **`Data`:** Contains the [Original Dataset](https://www.kaggle.com/datasets/umerkappor/market) and you can see the cleaned dataset in notebook.
 
-- **Notebook:** Jupyter notebook detailing the entire process, including data cleaning, visualization, error detecting, and modeling.
+- **`Notebook`:** Jupyter notebook detailing the entire process, including data cleaning, visualization, error detecting, and modeling.
 
-- **README.md:** Project documentation.
+- **`README.md`:** Project documentation.
 
 <br>
 
