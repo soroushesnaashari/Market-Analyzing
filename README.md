@@ -1,6 +1,5 @@
-[![](Image.jpg)](https://unsplash.com/photos/a-close-up-of-a-screen-tcJ6sJTtTWI)
-
 ## Market Data Analysis
+[![](Image.jpg)](https://unsplash.com/photos/a-close-up-of-a-screen-tcJ6sJTtTWI)
 
 **UPDATE: Market Analyzing version 1 is now available**
 
